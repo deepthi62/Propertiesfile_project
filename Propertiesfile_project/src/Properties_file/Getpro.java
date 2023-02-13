@@ -22,6 +22,7 @@ public class Getpro {
 		String result = pos.getProperty("IPADDRESS");
 		System.out.println(result);
 		System.out.println("check result");
+		System.out.println("result is checked");
 
 	}
 
